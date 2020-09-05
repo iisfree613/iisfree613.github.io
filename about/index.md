@@ -1,3 +1,3 @@
 # About This Site
 
-#### This site content was generated using Docify and went to demo in Opensource.com
+#### 记录工作日志，设备信息，处理文档。
