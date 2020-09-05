@@ -1,10 +1,8 @@
-# Tutorial for Cloud
+# 设备问题：
 
-Are you new to cloud? Cloud platform became hugely popular in the recent years. There are three types of cloud platforms:
 
-- Infrastructre as a Service (IaaS)
-- Platform as a Service (PaaS)
-- Software as a Service (SaaS)
-
-But recently, we also have other services getting invented such as **Container as a Service (CaaS)**.
-
+* [可控硅调光、PWM调光和0-10V调光的区别](./contents/可控硅调光、PWM调光和0-10V调光的区别.md)
+* [Q1_4路3A可控硅调光模块无法调光？](./contents/Q1_4路3A可控硅调光模块无法调光？.md)
+* [Q2_调试软件检测不到网关解决办法](./contents/Q2_调试软件检测不到网关解决办法.md)
+* [Q3_网关相关问题](./contents/Q3_网关相关问题.md)
+* [Q4_时钟相关问题](./contents/Q4_时钟相关问题.md)

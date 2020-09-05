@@ -7,8 +7,8 @@
     - [Basics](./Notes/basic/index)
     - [Product](./Notes/product/index)
     - [Software](./Notes/software/index)
-* [WORKS](./Work/)
+* [WorkDaliy](./Work/)
 
-* [About ME](./about/index)
+* [About](./about/index)
 
 

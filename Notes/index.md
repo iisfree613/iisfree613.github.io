@@ -2,6 +2,6 @@
 # 笔记集锦
 
 
-[Basic](./basic/index.md)
-[Product](./product/index.md)
-[Soft](./software/index.md)
+* [基础知识](./Notes/basic/index.md)
+* [产品问题](./Notes/product/index.md)
+* [软件问题](./Notes/software/index.md)
