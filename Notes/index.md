@@ -1,8 +1,7 @@
 
-# Tutorials for every technologist
+# 笔记集锦
 
-Learn about all these great technologies:
 
-[Tomcat](./tomcat/index.md)
-[Cloud](./cloud/index.md)
-[Java](./java/index.md)
+[Basic](./basic/index.md)
+[Product](./product/index.md)
+[Soft](./software/index.md)

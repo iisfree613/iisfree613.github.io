@@ -1,14 +1,14 @@
 <!-- docs/_sidebar.md -->
 
 
-* [主页](./)
+* [Home](./)
 
-* [笔记](./Notes/index)
-    - [基础常识]
-    - [设备问题]
-    - [软件问题]
-* [工作日志]
+* [Notes](./Notes/index)
+    - [Basics](./Notes/basic/index)
+    - [Product](./Notes/product/index)
+    - [Software](./Notes/software/index)
+* [WORKS](./Work/)
 
-* [关于我](./about/index)
+* [About ME](./about/index)
 
 
