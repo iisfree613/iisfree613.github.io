@@ -1,3 +1,33 @@
 # Welcome to IIFREE613's Note Page!
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page.
+
+### 工作学习笔记
+---
+### 吴军博士讲过一句话： *做好一份工作需要50%的常识，45%的勤奋，再加5%的艺术*。
+
+### 做这个东西的初衷
+* 将自己的常识积累记录下来，提高工作能力和工作效率。
+* 给后来从事与我同一岗位的人一点小小的指引，我也是从一开始什么都不明白过来的，我了解那种一无所知的痛苦，所以把成长的过程写下来，不要重复我的错误。
+* 我学技术也都是从网上搜索教程，然后一步步实践习得的，某天我就在想，为什么我不把自己的工作经验写出来分享给大家，我是别人写的技术文章的受益者，我也想用这种方法使别人受益。
+
+### 工作相关基础知识：
+* [485协议](./notes/485总线.md)
+* [autocad快捷键](./notes/autocad快捷键.md)
+* [DALI协议了解](./notes/DALI协议了解.md)
+* [modbus通讯协议学习](./notes/modbus通讯协议学习.md)
+* [工控安全](./notes/工控安全.md)
+* [智能家居产品学习](./notes/智能家居产品学习.md)
+
+
+### 设备问题：
+* [可控硅调光、PWM调光和0-10V调光的区别](./notes/可控硅调光、PWM调光和0-10V调光的区别.md)
+* [Q1_4路3A可控硅调光模块无法调光？](./Questions/Q1_4路3A可控硅调光模块无法调光？.md)
+* [Q2_调试软件检测不到网关解决办法](./Questions/Q2_调试软件检测不到网关解决办法.md)
+* [Q3_网关相关问题](./Questions/Q3_网关相关问题.md)
+* [Q4_时钟相关问题](./Questions/Q4_时钟相关问题.md)
+
+
+### 软件问题：
+
+### 工作日记
+* [2020年工作日记](./workDaily/2020.md)
