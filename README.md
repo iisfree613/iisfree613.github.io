@@ -11,12 +11,12 @@
 * 我学技术也都是从网上搜索教程，然后一步步实践习得的，某天我就在想，为什么我不把自己的工作经验写出来分享给大家，我是别人写的技术文章的受益者，我也想用这种方法使别人受益。
 
 ### 工作相关基础知识：
-* [485协议](./notes/485总线.md)
-* [autocad快捷键](./notes/autocad快捷键.md)
-* [DALI协议了解](./notes/DALI协议了解.md)
-* [modbus通讯协议学习](./notes/modbus通讯协议学习.md)
-* [工控安全](./notes/工控安全.md)
-* [智能家居产品学习](./notes/智能家居产品学习.md)
+* [485协议](./contents/485总线.md)
+* [autocad快捷键](./contents/autocad.md)
+* [DALI协议了解](./contents/DALI协议了解.md)
+* [modbus通讯协议学习](./contents/modbus通讯协议学习.md)
+* [工控安全](./contents/工控安全.md)
+* [智能家居产品学习](./contents/智能家居产品学习.md)
 
 
 ### 设备问题：
